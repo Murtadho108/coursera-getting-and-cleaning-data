@@ -10,5 +10,5 @@ Here are the steps that must be performed before running the R script:
    * X_test.txt
    * y_test.txt
 4. After those steps complete, you can run the R script ([run_analysis.R](https://github.com/Murtadho108/coursera-getting-and-cleaning-data/blob/master/run_analysis.R))
-The output of the R script is a tidy dataset, [tidi.txt](https://github.com/Murtadho108/coursera-getting-and-cleaning-data/blob/master/tidy.txt)
+The output of the R script is a tidy dataset, [tidy.txt](https://github.com/Murtadho108/coursera-getting-and-cleaning-data/blob/master/tidy.txt)
 
